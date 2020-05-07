@@ -1,4 +1,6 @@
 <?php include_once('header.php');?>
+<div class="flourish-embed flourish-chart" data-src="story/230085"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+<div class="flourish-embed flourish-chart" data-src="story/230110"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 <h2><center>Mortality in the most affected countries</center></h2>
 <p><center>For the 10 countries most affected by COVID-19 worldwide, the bars in the chart below show the number of deaths either per 100 confirmed cases (observed case-fatality ratio) or per 100,000 population (this represents a country’s general population, with both confirmed cases and healthy people). Countries at the top of this figure have the most deaths proportionally to their COVID-19 cases or population, not necessarily the most deaths overall.</center></p>
 <center><img src="img/m1.jpg" height="80%" width="80%"></center>
